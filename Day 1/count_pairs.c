@@ -4,7 +4,7 @@ e.g - xx -> 0
 	x -> 0
 	xxx -> 1
 	bxbb -> 1
-	axaxa -> 3*/
+	axaxa -> 3* /
 #include<stdio.h>
 
 int countPairs(char *s)
